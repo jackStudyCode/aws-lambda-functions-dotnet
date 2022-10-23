@@ -1,0 +1,11 @@
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\join-game-2.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\join-game-2.deps.json
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\join-game-2.runtimeconfig.json
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\join-game-2.pdb
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\AWSSDK.ApiGatewayManagementApi.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+D:\desktops\Lambda_Projects\join-game-2\src\join-game-2\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
