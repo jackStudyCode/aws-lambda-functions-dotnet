@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUtVQooHURY+w9/HhnZVVk7HWcCWtTtRFf/+XG1jDCk1EAN1vQQDkLKmQbXsPymgf+9DG6MEh3+dL0CUYED0sg==",
+  "dgSpecHash": "R3m0H8y553VgvMXeo3lxWcGa9BnRPqRut3Cuh4hKA3zL4ti14N/4AtDAA9CHc+uNlNKy4EDBd+cPn+kiiyMcpg==",
   "success": true,
-  "projectFilePath": "D:\\desktops\\Lambda_Projects\\disconnect-game-2\\src\\disconnect-game-2\\disconnect-game-2.csproj",
+  "projectFilePath": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\disconnect-game-2\\src\\disconnect-game-2\\disconnect-game-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ot20UKVaUM7jdK8JYoC6aGagVVgEB/p/1dhAKWGAIDO98t4kc0JEqe3XB199WSGrcx3shV8tpocRLWwoiX68nw==",
+  "dgSpecHash": "SLwohi4aXAMUNnyCGLyQo4YG0uA+CiaTZx6rQ3e1PaAN4HCQPlzpFEqGmHuAcYP6nTaO/fjwRmUmTcktFALv6w==",
   "success": true,
-  "projectFilePath": "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
+  "projectFilePath": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",

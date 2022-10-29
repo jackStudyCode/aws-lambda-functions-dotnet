@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\join-game-2.csproj": {}
+    "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\join-game-2.csproj": {}
   },
   "projects": {
-    "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\join-game-2.csproj": {
+    "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\join-game-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
+        "projectUniqueName": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
         "projectName": "join-game-2",
-        "projectPath": "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
+        "projectPath": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\join-game-2.csproj",
         "packagesPath": "C:\\Users\\aw\\.nuget\\packages\\",
-        "outputPath": "D:\\desktops\\Lambda_Projects\\join-game-2\\src\\join-game-2\\obj\\",
+        "outputPath": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\join-game-2\\src\\join-game-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,11 +96,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }

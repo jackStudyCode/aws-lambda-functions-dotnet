@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IcClDwWusMhcjua3vkVjXT61+yJenDqg1hmBD8Jteh0M/SD6ot125dwXDyQB6bpV1XCAYl53MDxvnIr9X91Zqw==",
+  "dgSpecHash": "JQ5zWS0f6jU2BvLXdAjTA5mhouyJf7QTGGIBeb5zoewbAdH69PEqMDCKow9306sip5AQsCT/54999hinD8+bLA==",
   "success": true,
-  "projectFilePath": "D:\\desktops\\Lambda_Projects\\game-messaging-2\\src\\game-messaging-2\\game-messaging-2.csproj",
+  "projectFilePath": "D:\\desktops\\Lambda_Projects\\aws-lambda-functions-dotnet\\game-messaging-2\\src\\game-messaging-2\\game-messaging-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
     "C:\\Users\\aw\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
